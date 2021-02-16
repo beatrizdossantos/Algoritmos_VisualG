@@ -1,4 +1,4 @@
-# Exercícios Javascript :file_folder:
+# Algoritmos e Lógica de Programação :file_folder:
 
 # Sobre :computer:
 
